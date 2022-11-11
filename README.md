@@ -1,2 +1,2 @@
-# this is change
-I AM NOT SURE
+# this is for keras practice
+have fun
