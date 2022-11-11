@@ -1,2 +1,2 @@
-# this is for keras practice
+# this is for keras
 have fun
