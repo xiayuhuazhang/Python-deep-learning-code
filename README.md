@@ -1,2 +1,1 @@
-# this is for keras
-have fun
+This is for code practice of "Deep Learning with Python"
